@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../assets/Logo.png"
+import logo from "../../assets/Logo.png";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 
 const Search = () => {
